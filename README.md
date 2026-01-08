@@ -30,7 +30,7 @@ I love building scalable web applications and experimenting with **Cloudflare Wo
 
 ## Find me around the web
 
-- Personal site: [pmil.me](https://www.pmil.me/)
+- Personal site: [pmil.me](https://pmil.me/)
 - LinkedIn: [linkedin.com/in/pamiller](https://www.linkedin.com/in/pamiller)
 
 ---
